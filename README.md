@@ -8,6 +8,9 @@ O sistema permitirá que o usuário insira os nomes dos participantes. Todos os 
 
 Caso o usuário tente enviar um campo vazio, será exibido um alerta solicitando que você insira um nome válido.
 
+![Logo](assets/lista.png)
+
+
 ## Redes socias
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luana-maria-desenvolvedora-front-end/) [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/printf.luana._/) 
