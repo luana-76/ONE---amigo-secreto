@@ -1,4 +1,4 @@
-# Projeto " **Amigo Secreto**" {: style="color: #4B69FD;" }
+# Projeto " **Amigo Secreto**" 
 
 ## O que o projeto faz?
 
@@ -7,8 +7,6 @@ O projeto é um desafio da <span style="color: #fe652b;">ONE (Oracle Next Educat
 O sistema permitirá que o usuário insira os nomes dos participantes. Todos os nomes serão armazenados em uma lista, que será exibida logo abaixo, visível ao usuário. Haverá também um botão chamado "**Sortear amigo**". Quando o usuário clicar nesse botão, uma pessoa será sorteada, e uma mensagem será exibida com o texto: "**O amigo secreto sorteado é: [nome da pessoa]**" .
 
 Caso o usuário tente enviar um campo vazio, será exibido um alerta solicitando que você insira um nome válido.
-
-<img src='assets/imagemMArkdown.png'/>
 
 ## Redes socias
 
