@@ -32,3 +32,5 @@ function sortearAmigo(){
     resultado.innerHTML = `O amigo secreto sorteado é: ${amigosAdicionados[indiceAleatorio]}`;
 
 }
+
+
