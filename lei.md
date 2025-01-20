@@ -8,7 +8,7 @@ O sistema permitirá que o usuário insira os nomes dos participantes. Todos os 
 
 Caso o usuário tente enviar um campo vazio, será exibido um alerta solicitando que você insira um nome válido.
 
-![Site](./assets/imagemMArkdown.png)
+<img src='./assets/imagemMArkdown.png'/>
 
 ## Redes socias
 
